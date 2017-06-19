@@ -1,0 +1,962 @@
+42.3624181 -71.0831048 starbucks -
+42.3627266 -71.0861289 kendall/mit - 
+42.4173849 -71.1562276 starbucks - 
+42.3788395 -71.1040534 sp4 daniel j. ryan square - 
+42.397361 -71.104396 magoun square - 
+42.3577809 -71.0702841 ralph cook square - 
+42.3590388 -71.1308244 john patrick bonner square - 
+42.3508915 -71.0777388 louis c. epstein square - 
+42.3488325 -71.0928427 oliver a. james square - 
+42.3624181 -71.0831048 firebrand saints - restaurant
+42.3627266 -71.0861289 kendall/mit - 
+42.4173849 -71.1562276 central street historical district - 
+42.3788395 -71.1040534 sp4 daniel j. ryan square - 
+42.397361 -71.104396 magoun square - 
+42.3577809 -71.0702841 ralph cook square - 
+42.3590388 -71.1308244 john patrick bonner square - 
+42.3508915 -71.0777388 louis c. epstein square - 
+42.3488325 -71.0928427 oliver a. james square - 
+42.3448344 -71.0765129 edwin daley square - 
+42.343833 -71.071863 harold b. olliver square - 
+42.352543 -71.140266 harold s. macfarland jr. square - 
+42.3434 -71.068431 samuel naser square - 
+42.2525297 -71.1182489 traffic light - 
+42.346779 -71.0642906 south station / i-93 - 
+42.347702 -71.0798263 prudential center / copley square - 
+42.3073845 -71.1200069 arborway gate - 
+42.2525898 -71.1183178 traffic light - 
+42.3547903 -71.1181805 allston / brighton - 
+42.3222244 -71.1154261  - parking_entrance
+42.3467748 -71.0378771 south boston / i-93 - 
+42.2954204 -71.1224899 poplar gate - 
+42.4056739 -71.1055019 traffic light - 
+42.4178934 -71.1314022 traffic light - 
+42.419777 -71.134523 traffic light - 
+42.257945 -71.0394204 traffic light - 
+42.27036 -71.06789 traffic light - 
+42.26 -71.06859 traffic light - 
+42.24923 -71.08689 traffic light - 
+42.25938 -71.04455 traffic light - 
+42.26608 -71.08545 traffic light - 
+42.25816 -71.05109 traffic light - 
+42.3487123 -71.1346203 griggs street - 
+42.350082 -71.1071826 boston university central - 
+42.3961909 -71.1416198 alewife - 
+42.39681 -71.1223562 davis - 
+42.373477 -71.1188135 harvard - 
+42.3517318 -71.1253312 packards corner - 
+42.3410495 -71.125776 summit ave/winchester st - 
+42.3300161 -71.0571474 andrew - 
+42.3628818 -71.0581799 haymarket - 
+42.272359 -71.06255 butler - 
+42.336163 -71.099514 longwood medical area - 
+42.3321126 -71.1118259 riverway - 
+42.3440214 -71.1143097 kent street - 
+42.3479862 -71.0873676 hynes convention center - 
+42.334317 -71.104356 brigham circle - 
+42.349733 -71.1043087 boston university east - 
+42.267479 -71.086906 capen street - 
+42.284396 -71.063626 ashmont - 
+42.3595096 -71.0597538 government center - 
+42.3395123 -71.1348226 washington square - 
+42.32074 -71.052486 jfk/umass - 
+42.3385277 -71.1384536 tappan street - 
+42.3527136 -71.0554252 south station (mbta) - 
+42.293126 -71.065738 shawmut - 
+42.3400516 -71.1287212 brandon hall - 
+42.3508198 -71.1133693 boston university west - 
+42.3405937 -71.1509981 chiswick road - 
+42.3336607 -71.1058111 fenwood road - 
+42.348867 -71.0956573 kenmore - 
+42.3487121 -71.1379981 allston street - 
+42.331272 -71.126547 brookline hills - 
+42.3448085 -71.11146 hawes street - 
+42.3440373 -71.1426298 washington street - 
+42.279718 -71.060421 cedar grove - 
+42.332594 -71.116827 brookline village - 
+42.300732 -71.114109 forest hills - 
+42.3923659 -71.0771813 assembly - 
+42.3401755 -71.1670379 boston college - 
+42.23328 -71.0068626 quincy adams - 
+42.3369811 -71.1456247 englewood avenue - 
+42.269974 -71.073608 central avenue - 
+42.341669 -71.109935 longwood - 
+42.3736846 -71.0696857 community college - 
+42.3653967 -71.1037429 central - 
+42.268326 -71.081504 valley road - 
+42.3518378 -71.121825 babcock street - 
+42.3377268 -71.1419669 dean road - 
+42.3611931 -71.0713401 charles/mgh - 
+42.3267568 -71.1646488 chestnut hill - 
+42.299803 -71.06243 fields corner - 
+42.3396642 -71.1311891 fairbanks street - 
+42.2675061 -71.0924304 mattapan - 
+42.3484028 -71.1404182 warren street - 
+42.3515083 -71.1191012 pleasant street - 
+42.351771 -71.070969 arlington - 
+42.3502301 -71.1314228 harvard avenue - 
+42.3492202 -71.1000477 blandford street - 
+42.3432343 -71.117174 saint paul street - 
+42.3658055 -71.0606016 north station - 
+42.322592 -71.100246 jackson square - 
+42.3351702 -71.1482462 reservoir - 
+42.3500312 -71.0774699 copley - 
+42.3421643 -71.1213002 coolidge corner - 
+42.317224 -71.10428 stony brook - 
+42.3307916 -71.1115858 back of the hill - 
+42.3415667 -71.146328 sutherland road - 
+42.270321 -71.067242 milton - 
+42.3553863 -71.0603601 downtown crossing - 
+42.33946 -71.15724 south street - 
+42.3379387 -71.0949802 museum of fine arts - 
+42.3426644 -71.0848336 symphony - 
+42.310412 -71.1075566 green street - 
+42.3511782 -71.1163251 saint paul street - 
+42.3529947 -71.0646278 boylston - 
+42.3400618 -71.0896923 northeastern - 
+42.3427463 -71.0571362 broadway - 
+42.345596 -71.081361 prudential - 
+42.3383404 -71.1528794 chestnut hill avenue - 
+42.3357986 -71.1405812 beaconsfield - 
+42.3459376 -71.1074065 saint mary&#39;s street - 
+42.3975532 -70.9923571 beachmont - 
+42.3489672 -71.0956557 kenmore - 
+42.334949 -71.078873 washington st @ lenox st - 
+42.3743352 -71.0302839 airport - 
+42.336361 -71.077217 washington st @ massachusetts ave - 
+42.3597098 -71.0592142 government center - 
+42.3453479 -71.1042753 fenway - 
+42.344604 -71.03447 dry dock ave @ design center pl - 
+42.344658 -71.030998 21 dry dock ave - 
+42.3445455 -71.0271906 88 black falcon - 
+42.3868747 -71.0047749 orient heights - 
+42.352573 -71.047386 court house station (outbound) - 
+42.3796991 -71.0228172 wood island - 
+42.3312546 -71.0955776 roxbury crossing - 
+42.39051 -70.9971875 suffolk downs - 
+42.3641269 -71.0186891 terminal b east - arrivals level - 
+42.341446 -71.069611 washington st @ union pk - 
+42.367149 -71.017792 terminal c - 
+42.353249 -71.064354 tremont st opp avery st - 
+42.3447056 -71.0365182 dry dock ave @ harbor st - 
+42.3733727 -71.1190034 harvard square - bus_station
+42.3588276 -71.0572601 state - 
+42.345081 -71.031982 northern ave @ tide st - 
+42.338787 -71.073822 washington st @ w newton st - 
+42.3709157 -71.0770975 lechmere - 
+42.343937 -71.065796 e. berkeley st outbound - 
+42.347533 -71.075108 back bay - 
+42.346577 -71.064728 herald st @ washington st - 
+42.3297571 -71.0837878 dudley station - platform f - 
+42.275239 -71.029635 north quincy - 
+42.3381256 -71.0332127 east 1st st @ m st - 
+42.338585 -71.031898 city point bus terminal - 
+42.3563324 -71.06235 park street - 
+42.337524 -71.075478 washington st @ worcester st - 
+42.362983 -71.0579391 haymarket - 
+42.2666549 -71.0203558 wollaston - 
+42.3404742 -71.0356835 summer st @ powerhouse st - 
+42.3495343 -71.0639227 tufts medical ctr - inbound - 
+42.333042 -71.081108 melnea cass blvd @ washington st - 
+42.3667045 -71.0677684 science park - 
+42.3496554 -71.0638505 tufts medical center - 
+42.251581 -71.0051428 quincy center - 
+42.352463 -71.062553 washington st @ essex st - 
+42.364819 -71.021309 terminal a - arrivals level - 
+42.3657559 -71.0606761 north station - 
+42.361393 -71.018661 terminal  b stop 1 - 
+42.369457 -71.020134 terminal e - 
+42.344707 -71.028419 25 dry dock ave - 
+42.355518 -71.060225 downtown crossing - to alewife - 
+42.4016322 -71.0771988 wellington - 
+42.348347 -71.042572 world trade center station - inbound - 
+42.3843509 -71.0769706 sullivan square - 
+42.343918 -71.034164 black falcon ave @ design center place - 
+42.346634 -71.035301 northern ave @ harbor st - 
+42.3112621 -71.053315 savin hill - 
+42.352444 -71.062527 chinatown - 
+42.347187 -71.038849 silver line way before manulife  building - 
+42.3652921 -71.1037437 central square - 
+42.3328754 -71.1161634 brookline village - 
+42.2998213 -70.9283803 fort andrews - 
+42.3750973 -71.0392173 east boston - 
+42.2709322 -71.035605 montclair - 
+42.4153739 -71.1564428 arlington - 
+42.295932 -71.0119935 squantum - 
+42.2723208 -71.0869953 mattapan - 
+42.390097 -71.0475511 admirals hill - 
+42.3112092 -71.0744954 grove hall - 
+42.2862098 -71.0453276 neponset - 
+42.3598201 -70.9703265 point shirley - 
+42.2623217 -70.9619918 rock island - 
+42.2306555 -70.9550467 idlewell - 
+42.3551473 -71.0599539 downtown crossing - 
+42.3604823 -71.0595678 boston - 
+42.3650974 -71.0544954 north end - 
+42.3584304 -71.1383864 north brighton - 
+42.2612099 -71.0953288 milton upper mills - 
+42.252877 -71.0328269 west quincy - 
+42.2588259 -71.0425114 east milton - 
+42.40843 -71.0536625 everett - 
+42.3587085 -71.067829 beacon hill - 
+42.3709299 -71.1828321 watertown - 
+42.3599501 -71.0569705 dock square - 
+42.237044 -70.986992 south commons - 
+42.3098201 -71.1203299 jamaica plain - 
+42.2639882 -70.9842146 adams shore - 
+42.3795411 -71.1531092 strawberry hill - 
+42.2334323 -71.0939394 camp sayre - 
+42.3348196 -71.1483865 reservoir - 
+42.359611 -71.1067156 cambridgeport - 
+42.3681534 -70.9689376 cottage hill - 
+42.2853759 -71.1567196 highland - 
+42.3781523 -71.1444978 larchwood - 
+42.2993016 -71.156473 hancock village - 
+42.2967648 -71.1119963 forest hills - 
+42.2667655 -71.0717171 milton village - 
+42.2542657 -71.0800506 milton center - 
+42.3750976 -70.982827 winthrop - 
+42.3875964 -71.1828322 waverley - 
+42.3459306 -71.124497 coolidge corner - 
+42.3186375 -71.1832078 thompsonville - 
+42.2500986 -71.1578305 east dedham - 
+42.3306533 -71.0911627 roxbury crossing - 
+42.3728754 -70.9947717 court park - 
+42.3959296 -71.1786655 belmont - 
+42.3959298 -71.1300532 north cambridge - 
+42.3367641 -71.1411641 beaconsfield - 
+42.404263 -71.1467203 east arlington - 
+42.2459329 -70.9828254 quincy point - 
+42.3500971 -71.1564423 brighton - 
+42.2834316 -71.1244965 mount hope - 
+42.2875981 -71.1453304 bellevue - 
+42.3867634 -71.1239418 avon hill - 
+42.2723204 -71.1772757 riverdale - 
+42.3750997 -71.1056157 cambridge - 
+42.3778749 -71.0619957 charlestown - 
+42.2942653 -71.0267161 new squantum - 
+42.3856525 -71.0856075 east somerville - 
+42.2806544 -71.0286605 atlantic - 
+42.2417653 -71.166164 dedham - 
+42.2625984 -71.1542194 germantown - 
+42.3917638 -71.0328284 chelsea - 
+42.2514877 -71.1147738 fairmount - 
+42.3736904 -71.1383878 coolidge hill - 
+42.2412108 -70.970325 quincy neck - 
+42.2292655 -71.1439409 readville manor - 
+42.3334312 -71.0494949 south boston - 
+42.3653753 -71.0328281 jeffries point - 
+42.2750987 -71.0703282 lower mills - 
+42.2792649 -71.1494972 west roxbury - 
+42.2650989 -71.0578277 milton hill - 
+42.238433 -70.972825 old boat point - 
+42.2667649 -71.1772757 dedham island - 
+42.2834319 -71.0689393 ashmont - 
+42.2973205 -71.0744952 dorchester - 
+42.3875973 -71.003661 orient heights - 
+42.2403765 -71.1522747 oakdale - 
+42.3750967 -71.1494979 mount auburn - 
+42.2625994 -70.9739365 post island - 
+42.2912093 -71.1244966 roslindale - 
+42.2625993 -70.9953259 merrymount - 
+42.3070426 -71.061995 meeting house hill - 
+42.3042649 -71.0744953 mount bowdoin - 
+42.3695412 -71.1619982 east watertown - 
+42.4125963 -71.1253309 medford hillside - 
+42.3962821 -71.1222772 west somerville - 
+42.2389884 -71.0078259 south quincy - 
+42.2770433 -71.0203268 north quincy - 
+42.2473216 -71.0161597 north commons - 
+42.38843 -71.1092192 spring hill - 
+42.3195432 -70.9286584 fort warren - 
+42.3556526 -71.163387 faneuil - 
+42.2750984 -71.1231075 clarendon hills - 
+42.3334312 -71.0439392 dorchester heights - 
+42.39593 -71.0989412 winter hill - 
+42.2667656 -71.0603278 forbes wharf - 
+42.3875974 -70.9717157 winthrop highlands - 
+42.2556543 -71.1244963 hyde park - 
+42.4184296 -71.1061639 medford - 
+42.4139856 -71.0481068 glendale - 
+42.3317642 -71.1211635 brookline - 
+42.2317654 -71.1578302 endicott - 
+42.3875968 -71.0994968 somerville - 
+42.4112077 -71.063385 west everett - 
+42.263988 -71.0217156 wollaston - 
+42.2806543 -71.0578279 cedar grove - 
+42.3575729 -71.1853121 newton corner - 
+42.3506531 -71.0697734 bay village - 
+42.2403766 -71.1369964 readville - 
+42.2523209 -71.1425524 stonybrook village - 
+42.3362091 -71.0286611 city point - 
+42.3445416 -71.1494977 aberdeen - 
+42.2945422 -71.1856094 oak hill park - 
+42.2917651 -71.0717173 dorchester center - 
+42.2495435 -71.0661612 milton - 
+42.2667662 -70.9578251 houghs neck - 
+42.4056527 -70.9911609 crescent beach - 
+42.3778754 -70.9731045 winthrop beach - 
+42.233432 -71.1494967 ashcroft - 
+42.4189344 -71.0800734 edgeworth - 
+42.3248426 -71.0950158 roxbury - 
+42.3667639 -71.0800517 east cambridge - 
+42.304265 -71.0628283 mount ida - 
+42.2556552 -70.9619917 germantown - 
+42.3709309 -70.9869937 cottage park - 
+42.3507067 -71.0797297 back bay - 
+42.3125982 -71.0578282 savin hill - 
+42.3766818 -71.1275594 old cambridge - 
+42.3306529 -71.1661647 chestnut hill - 
+42.4042634 -71.0661628 hendersonville - 
+42.3967634 -71.0869965 ten hills - 
+42.3167648 -71.0606061 uphams corner - 
+42.3000984 -71.0578281 fields corner - 
+42.2300999 -70.9453242 weymouth heights - 
+42.3814856 -71.1389421 huron village - 
+42.4084302 -71.0119948 revere - 
+42.2431546 -71.0981064 blue hills - 
+42.2528772 -71.0022705 quincy - 
+42.4112643 -71.0828272 wellington - 
+42.2723212 -71.0203267 norfolk downs - 
+42.3959305 -70.986994 beachmont - 
+42.2459327 -71.007826 quincy center - 
+42.3623061 -71.0912936 picower institute for learning and memory (mit) - university
+42.3626295 -71.0914481 mcgovern institute for brain research (mit) - university
+42.2995927 -71.1017299 lemuel shattuck hospital correctional unit - prison
+42.2913448 -71.1029294 boston pre-release center - prison
+42.3672757 -71.0663292 suffolk county jail - prison
+42.3344514 -71.0677408 suffolk county house of correction - prison
+42.3692082 -71.0795141 middlesex county jail (cambridge) - prison
+42.2510718 -71.0138915 steward satellite emergency facility - quincy - hospital
+42.2741812 -71.1716794 va healthcare-west roxbury campus - hospital
+42.3186645 -71.0923254 jewish memorial hospital and rehab. center - hospital
+42.3491067 -71.1483294 st. elizabeth&#39;s medical center - hospital
+42.329917 -71.1071403 new england baptist hospital - hospital
+42.2991855 -71.1494591 bournewood hospital - hospital
+42.362739 -71.0701541 massachusetts eye &#38; ear infirmary - hospital
+42.3270993 -71.1096882 va boston healthcare system-jamaica plain - hospital
+42.2966213 -71.1307677 hebrew rehabilitation center for aged - hospital
+42.3466009 -71.1419091 kindred hospital boston - hospital
+42.2774332 -71.0655008 carney hospital - hospital
+42.3928054 -71.1887876 mclean hospital - hospital
+42.30135 -71.1282761 faulkner hospital - hospital
+42.3632101 -71.066386 boston shriners hospital - hospital
+42.3498066 -71.0639959 floating hospital for children - hospital
+42.3159415 -71.1124159 arbour hospital - hospital
+42.4002662 -71.0274449 quigley memorial hosp (chelsea soldiers home) - hospital
+42.350786 -71.1212008 arbour-hri hospital - hospital
+42.3850195 -71.1059709 central street health center - hospital
+42.3659432 -71.012145 logan state police - police
+42.3594397 -71.0618609 sp government center - police
+42.2564288 -71.1242782 boston police dept - police
+42.3710345 -71.0388061 boston police dept - police dist 7
+42.4043175 -71.0832183 state police medford - police
+42.2867829 -71.1484246 boston police dept - police
+42.4076982 -71.0127143 revere police dept - police
+42.414395 -70.9893996 sp revere - police
+42.3493611 -71.1505902 brighton police dept - police
+42.2846826 -71.0916905 boston police dept - police
+42.2557702 -70.9960313 quincy police dept - police
+42.3694082 -71.0795014 middlesex county sheriff - police
+42.333663 -71.1212863 brookline police dept - police
+42.2532789 -71.1180611 boston police department - police
+42.2481805 -71.17387 dedham police dept - police
+42.373846 -71.0382464 sp sumner callahan tunnel - police
+42.3120998 -71.0519998 sp south boston - police
+42.3411211 -71.0567869 boston police community svc - police
+42.3749188 -71.1144991 cambridge police dept - police
+42.3378694 -71.0635188 boston police garage - police
+42.346294 -71.0383379 state police ted williams tunnel - police
+42.3767663 -70.9844155 winthrop police dept - police
+42.3668529 -71.0688504 sp boston - police
+42.339314 -71.0692596 boston police dept - police
+42.3567818 -71.0591955 boston police dept - police
+42.3096859 -71.1046118 boston police dept - police
+42.4158105 -71.1101517 medford police department - police
+42.3283584 -71.0840861 boston police dept - police
+42.366237 -71.0904862 cambridge police dept - police
+42.3411265 -71.0549541 boston police dept - police
+42.3185903 -71.0809867 boston police department - police
+42.2980276 -71.0590886 boston police dept - police
+42.2481745 -71.117114 boston police department - police
+42.339402 -71.0499091 boston police department - police
+42.3343584 -71.0676647 suffolk county sheriff - police
+42.3789287 -71.1238574 harvard university police - police
+42.2393688 -71.1088995 milton fire department - fire_station
+42.3846647 -71.1113341 somerville fire department - fire_station
+42.3794391 -71.1580204 belmont fire department - fire_station
+42.3183276 -71.0632676 boston fire department - fire_station
+42.3480805 -71.0855358 boston fire department - fire_station
+42.3371951 -71.0960914 boston fire department - fire_station
+42.4154502 -71.1100739 medford fire department - fire_station
+42.2907913 -71.089449 boston fire department - fire_station
+42.4082435 -70.9949688 revere fire department - fire_station
+42.4055349 -71.0570961 everett fire department - fire_station
+42.286503 -71.0638091 boston fire department - fire_station
+42.2447564 -70.9984838 quincy fire department - fire_station
+42.2782692 -71.0787474 boston fire department - fire_station
+42.3741185 -70.9718419 winthrop fire department - fire_station
+42.41052 -71.0124182 revere fire department - fire_station
+42.2994193 -71.187796 newton fire department - fire_station
+42.3791 -71.0302213 boston fire department - fire_station
+42.2533188 -70.960433 quincy fire department - fire_station
+42.2543915 -71.0801732 milton fire department - fire_station
+42.3781656 -71.0921118 somerville fire department - fire_station
+42.3552459 -71.0525638 boston fire department - fire_station
+42.3821266 -71.1799667 belmont fire department - fire_station
+42.3350173 -71.0370779 boston fire department - fire_station
+42.3775578 -71.1885466 watertown fire department - fire_station
+42.3314505 -71.0696122 boston fire department - fire_station
+42.4121097 -71.0541774 everett fire department - fire_station
+42.3941914 -70.9851767 former - revere fire department - closed in 2008 - 
+42.3183967 -71.0977763 boston fire department - fire_station
+42.2367637 -71.1312522 boston fire department - fire_station
+42.3077417 -71.0616123 boston fire department - fire_station
+42.2434272 -71.0237184 quincy fire department - fire_station
+42.2678477 -70.9575439 quincy fire department - fire_station
+42.2885707 -71.0477989 boston fire department - fire_station
+42.3512961 -71.1681691 boston fire department - fire_station
+42.354944 -71.1891719 newton fire department - fire_station
+42.3990619 -71.0226139 chelsea fire department - fire_station
+42.2579841 -71.0408519 milton fire department - fire_station
+42.3843415 -71.1298256 cambridge fire department - fire_station
+42.3388582 -71.1332751 brookline fire department - fire_station
+42.3405215 -71.0775392 boston fire department - fire_station
+42.3908461 -71.0912369 somerville fire department - fire_station
+42.3495737 -71.0578805 boston fire department - fire_station
+42.2789955 -71.1174661 boston fire department - fire_station
+42.4108421 -71.0887789 medford fire department - fire_station
+42.3105415 -71.1144181 boston fire department - fire_station
+42.2462531 -70.9763991 quincy fire department - fire_station
+42.4192616 -70.9911908 revere fire department - fire_station
+42.3916806 -71.1108341 somerville fire department - fire_station
+42.3489301 -71.0709353 boston fire department - fire_station
+42.383825 -71.071579 boston fire department - fire_station
+42.2431421 -70.9445499 weymouth fire department - fire_station
+42.330616 -71.1221828  - fire_station
+42.3711772 -71.0787804 cambridge fire department - fire_station
+42.2653171 -71.0202951 quincy fire department - fire_station
+42.2280755 -70.9869142 braintree fire department - fire_station
+42.3116748 -71.1639649 brookline fire department - fire_station
+42.3742293 -71.0610942 boston fire department - fire_station
+42.3074868 -71.0821723 boston fire department - fire_station
+42.4027382 -71.1270626 somerville fire department - fire_station
+42.4013136 -71.1058309 medford fire department - fire_station
+42.4152011 -71.1808222 arlington fire department - fire_station
+42.3705443 -71.1599286 watertown fire department - fire_station
+42.2546392 -71.1647748 dedham fire department - fire_station
+42.3288629 -71.0823444 boston fire department - fire_station
+42.3574557 -71.0177962 massport fire-rescue - fire_station
+42.3877364 -71.0041652 boston fire department - fire_station
+42.2639868 -71.1548054 boston fire department - fire_station
+42.3629857 -71.1001598 cambridge fire department - fire_station
+42.3427021 -71.1534743 boston fire department - fire_station
+42.2487254 -71.1547097 dedham fire department - fire_station
+42.2759482 -71.0286163 quincy fire department - fire_station
+42.2551125 -71.119768 boston fire department - fire_station
+42.3765251 -70.985364 winthrop fire department - fire_station
+42.331443 -71.1171694 brookline fire department - fire_station
+42.3396213 -71.0505004 boston fire department - fire_station
+42.2974154 -71.0106951 quincy fire department - fire_station
+42.3399781 -71.0684907 boston fire department - fire_station
+42.3398479 -70.9545077 deer island light - 
+42.3302159 -70.9576735 long island head light - 
+42.3088801 -71.0561422 campbell resource center library - library
+42.3368236 -71.098744 morton r. godine library - library
+42.35103 -71.06613 library - library
+42.3638112 -71.125771 media archives and preservation center - library
+42.2710754 -71.0121349 eastern nazarene college - college
+42.3627265 -71.0674149 treadwell library - library
+42.35171 -71.06782 library - library
+42.3388012 -71.0967338 w. van alan clark, jr. library - library
+42.3812739 -71.0608723 library - library
+42.3167344 -71.0456409 corcoran library - library
+42.2909012 -71.1889628 jay orlin library - library
+42.2452847 -71.18426 library - library
+42.3254426 -71.1779064 feinberg library - library
+42.2909012 -71.1889628 library - library
+42.3862048 -71.1706599 library - library
+42.33007 -71.10667 paul e. woodard health sciences library - library
+42.35616 -71.18949 newton history museum  library - library
+42.3410229 -71.1075466 library - library
+42.27877 -71.06618 colpoys library - library
+42.3330969 -71.1288764 library - library
+42.3521907 -71.1374312 library - library
+42.2629631 -71.1177387 library - library
+42.35925 -71.0627 mildred f. sawyer library - library
+42.3940499 -71.0370356 library - library
+42.33942 -71.13198 boston graduate school of psychoanalysi - library
+42.31144 -71.0737 library - library
+42.2578195 -71.1219832 library - library
+42.2594768 -71.0595212 library - library
+42.3524258 -71.1439049 library - library
+42.374487 -71.1042697 cambridge hospital bor medical library - library
+42.3471552 -71.0931951 library and boston symphony education r - library
+42.3011 -71.18904 college libraries - library
+42.3021113 -71.177636 library - library
+42.3963479 -71.1856558 library - library
+42.27819 -71.06634 helen stubblefield law library - library
+42.3454876 -71.0903462 albert alphin library - library
+42.3649336 -71.1690979 library - library
+42.2778371 -71.0244 atlantic middle school media center - library
+42.3522327 -71.120649 library - library
+42.35238 -71.06558 library - library
+42.3304539 -71.1221667 library - library
+42.2337325 -71.1334602 archives &#38; records - library
+42.3083577 -71.0609723 library - library
+42.3755807 -71.1139584 cmes teaching resource center - library
+42.3518015 -71.0750525 new england historic genealogical society - library
+42.40824 -71.00926 revere public library - library
+42.39574 -71.12342 library - library
+42.34609 -71.06345 sylvan engineering information center - library
+42.3520056 -71.1202533 adult literacy resource center - library
+42.28995 -71.07146 resource library - library
+42.3614039 -71.1780458 braille &#38; talking book library - library
+42.3158368 -71.0493452 the boston globe - library
+42.3407554 -71.0928185 percy howe memorial library - library
+42.309065 -71.1898655 library - library
+42.2651366 -70.993251 media center - library
+42.3568701 -71.0587801 central library - library
+42.35284 -71.06437 learning resource center - library
+42.3147093 -71.1717314 library - library
+42.3366267 -71.1010151 sheppard library - library
+42.3168 -71.08593 library - library
+42.2527 -71.00374 anselmo library - library
+42.34853 -71.07407 hiv resource library - library
+42.35811 -71.06221 library resource center on racism - library
+42.35717 -71.05846 library and special collections - library
+42.3630523 -71.0699993 the libraries - library
+42.3514733 -71.0486803 research and training institute library - library
+42.34607 -71.07046 lufkin library - library
+42.36707 -71.07565 herman g. dresser library - library
+42.37742 -71.13015 library - library
+42.4061287 -71.1807584 byrnes library - library
+42.3956766 -71.0303658 library - library
+42.23361 -71.02886 charles s. morgan technical library - library
+42.4176118 -71.1879092 library - library
+42.3678524 -71.0648733 medical library - library
+42.3413579 -71.1366926 library - library
+42.35521 -71.1837201 underwood elementary school - school
+42.3632172 -71.1753987 samuel p. hayes research library - library
+42.301215 -71.1282428 medical library - library
+42.3361189 -71.1718432 heffernan house - library
+42.3552852 -71.0741312 library - library
+42.3329215 -71.0709394 library - library
+42.2666943 -70.9577092 media center - library
+42.2780177 -71.1789268 library - library
+42.2708235 -71.0320452 library - library
+42.3529189 -71.0624809 cultural competency resource center - library
+42.3313452 -71.1438814 library - library
+42.34932 -71.09493 library - library
+42.3002 -71.1066 bettencourt medical library - library
+42.3569831 -71.0568523 epa new england library - library
+42.39485 -71.17257 belmont public library - library
+42.3784163 -71.1233024 bakalar library - library
+42.2287825 -70.9869425 media center - library
+42.24627 -71.10411 levin library - library
+42.313867 -71.1868369 margaret w. erskine library - library
+42.3515705 -71.0485784 resource center - library
+42.3854932 -71.0992628 library - library
+42.35559 -71.06053 library - library
+42.35205 -71.07645 library - library
+42.33834 -71.08225 wayne s. wright community resource cent - library
+42.33863 -71.04557 library - library
+42.336164 -71.1069506 brigham and women&#39;s medical library - library
+42.3328458 -71.0448138 library - library
+42.3759525 -70.9888105 library - library
+42.34662 -71.09268 library - library
+42.3918213 -71.0988167 library - library
+42.255903 -71.0222259 library - library
+42.2776923 -71.1657802 library - library
+42.3775555 -70.9840319 winthrop public library - police
+42.2596195 -70.9851337 media center - library
+42.4153944 -71.1507566 monsignor linnehan library - library
+42.386167 -71.1879686 library - library
+42.3589 -71.0607 library - library
+42.3413628 -71.0861271 harriet m. spaulding library - library
+42.36948 -71.0794 middlesex law library - library
+42.35369 -71.07236 hanns sachs library - library
+42.3432158 -71.0851904 william morris hunt memorial library - library
+42.3363949 -71.107225 kessler health education library - library
+42.3644143 -71.1025321 regional center for healthy communities - library
+42.3884335 -71.1641083  - library
+42.3780763 -71.1524495 library - library
+42.4199231 -71.045981 lafayette school library - library
+42.3341081 -71.1420481 martin sleeper library - library
+42.3351037 -71.1211807 library - library
+42.3501823 -71.0690611 media center - library
+42.2632308 -71.0232254 library - library
+42.32714 -71.1043 library - library
+42.39856 -71.13694 gcp library - library
+42.34985 -71.0619 library - library
+42.3621237 -71.0845627 information resource center - library
+42.3753203 -71.0704493 library - library
+42.2568317 -71.0693284 cox - library
+42.3867226 -71.0967975 library information center - library
+42.2821382 -71.1748549 library - library
+42.34658 -71.08735 stan getz media center and library - library
+42.3903704 -71.1086391 carr health sciences library - library
+42.3667928 -71.0959267 library - library
+42.4109294 -71.0509102 parlin junior high school library - library
+42.4063115 -71.1262747 library - library
+42.2539208 -71.1545289 dedham middle school media center - library
+42.35403 -71.07459 the french library - library
+42.2880498 -71.0769041 library - library
+42.34973 -71.14805 stohlman library - library
+42.3592441 -71.0638705 library - library
+42.3506369 -71.0780649 snowden international school library - library
+42.2613813 -71.1853337 putnam library - library
+42.2536947 -71.1107783 east library - library
+42.3583473 -71.0720449 library - library
+42.274432 -71.0671737 monsignor ryan memorial high school lib - library
+42.3319 -71.1153 new england institute of art and commun - library
+42.3629815 -71.0685994 patient and family learning center - library
+42.254863 -71.0056264 katherine bacon library - library
+42.367256 -71.070508 harrison lyman library - library
+42.34645 -71.08075 library - library
+42.3748297 -71.0550294 library - library
+42.34128 -71.10468 the learning center - library
+42.40563 -71.05693 parlin memorial library - library
+42.3356047 -71.0955638 alumni library - library
+42.3878839 -71.1304695  - school_library
+42.3538341 -71.1812546 library - library
+42.2382 -71.01194 library - library
+42.35608 -71.06237 moakley law library - library
+42.2507638 -71.0137087 quincy hospital medical library - library
+42.3521907 -71.1374312 jackson mann - school
+42.386167 -71.1879686 daniel butler - school
+42.3056651 -71.1315562 joseph p manning - school
+42.297177 -71.0793501 sarah greenwood - school
+42.282065 -71.1749037 urban science academy - school
+42.3013439 -71.0854516 boston middle school academy - school
+42.2894397 -71.0719306 codman academy charter public school - school
+42.3235692 -71.0730165 ralph waldo emerson - school
+42.2651366 -70.993251 merrymount - school
+42.3538341 -71.1812546 bigelow middle - school
+42.3279259 -71.0577382 john paul ii polish school - school
+42.3113637 -71.0735327 quincy e dickerman - school
+42.270192 -71.1802636 the education cooperative (tec) - tec - riverdale school - school
+42.2455401 -71.1321278 academy of the pacific rim charter public school - school
+42.3307008 -71.0784548 orchard gardens - school
+42.328767 -71.093121 paige academy - school
+42.325913 -71.1068434 james w hennigan - school
+42.3768885 -71.0369826 umana/barnes middle - school
+42.3012848 -71.0586727 smith leadership academy charter public school - school
+42.3524258 -71.1439049 mt st joseph academy - school
+42.3780763 -71.1524495 haggerty - school
+42.3535095 -71.0772453 the learning project - school
+42.4085366 -71.0981668 john j mcglynn elementary school - school
+42.2926585 -71.1522903 lyndon - school
+42.336038 -71.0707256 dr. solomon carter fuller - school
+42.3853262 -70.980251 william p. gorman/fort banks elementary - school
+42.3660949 -71.0533691 eliot elementary - school
+42.2648468 -71.1589242 east boston ecc - school
+42.2807182 -71.069987 quincy upper school - school
+42.3216311 -71.060871 boston collegiate charter school - school
+42.3380578 -71.0527511 james condon elem - school
+42.3479909 -71.064924 josiah quincy elementary school - school
+42.313867 -71.1868369 newton south high - school
+42.331295 -71.0505125 michael j. perkins elementary school - school
+42.3389943 -71.139044 gan torah academy - school
+42.3050526 -71.1034007 parkside christian - school
+42.3479275 -71.1067054 william mckinley - school
+42.2296541 -71.0034279 cardinal cushing centers/braintree - school
+42.2880072 -71.0769331 noonan business academy - school
+42.3670811 -71.0845517 community charter school of cambridge - school
+42.4001663 -71.1251896 city of somerville department of traffic and parking - 
+42.3699275 -71.1783349 watertown high school - school
+42.2581155 -71.0828135 charles s pierce middle - school
+42.3502435 -71.1455954 boston community leadership academy - school
+42.3112433 -71.0764562 martin luther king jr mid - school
+42.3405802 -71.0839169 carter developmental day care - school
+42.3640955 -71.1051934 farr academy - school
+42.4199231 -71.0459811 lafayette school - school
+42.3360441 -71.0296633 st brigid elementary - school
+42.3215482 -71.1017268 nativity prep school - school
+42.3785257 -71.0302493 patrick j. kennedy school - school
+42.3520811 -71.0823993 newman school - school
+42.3063673 -71.1092262 the english high - school
+42.4167025 -71.0097922 abraham lincoln - school
+42.3141479 -71.0992242 egleston comm high school - school
+42.29818 -71.1501009 bournewood hospital - school
+42.3276083 -71.0826825 boston day and evening academy charter school - school
+42.3506581 -71.0779835 snowden international high - school
+42.2702874 -71.1802203 riverdale - school
+42.3165684 -71.101733 ellis mendell - school
+42.2530722 -71.0533261 cunningham school - school
+42.3247078 -71.0772106 st patrick elementary - school
+42.2880498 -71.0769041 tech boston academy - school
+42.2626616 -71.1179451 boston community leadership academy - school
+42.4109295 -71.0509102 parlin school - school
+42.2907757 -71.0493123 st ann elementary - school
+42.3812603 -71.0608827 charlestown high - school
+42.3328996 -71.0446492 odyssey high school - school
+42.4125842 -71.1587773 arlington children&#39;s center - school
+42.3307579 -71.0912466 james p timilty middle - school
+42.4040538 -71.0576345 sumner g. whittier school - school
+42.2854882 -71.1177483 john d philbrick - school
+42.3712351 -71.1377924 shady hill school - school
+42.3333273 -71.1004699 o l perpetual help elem - school
+42.2568317 -71.0693284 milton academy - school
+42.2469549 -71.1032499 delphi academy - school
+42.3743543 -71.1115922 cambridge rindge and latin highschool - school
+42.2955776 -71.0708691 lucy stone - school
+42.4070415 -71.0235175 eagle heights academy - school
+42.4182137 -70.9953285 paul revere - school
+42.2547984 -71.1237378 boston preparatory charter public school - school
+42.3087723 -71.1903175 charles e brown middle - school
+42.4031606 -71.114339 st clement jr/sr high - school
+42.325913 -71.1068434 elc - west zone - school
+42.2537469 -71.0523191 collicot elementary school - school
+42.2314445 -71.147439 early childhood center - school
+42.4056162 -71.059376 st anthony elementary - school
+42.2925561 -71.0661369 epiphany school - school
+42.3963479 -71.1856558 belmont day - school
+42.4081627 -71.0512403 pioneer charter school of science - school
+42.2386507 -71.1542379 oakdale - school
+42.3752281 -71.0340631 james otis - school
+42.2428432 -71.1241051 franklin d roosevelt - school
+42.3264796 -71.0808526 dearborn - school
+42.4134692 -71.0691066 madeline english school - school
+42.2511915 -71.0876051 milton high - school
+42.3857964 -71.1322265 cambridge montessori - school
+42.324475 -71.0708348 community academy - school
+42.3281457 -71.1114501 dr. frederick h. knight children&#39;s center - school
+42.4012718 -71.1020269 christopher columbus - school
+42.2516416 -71.1333677 william ellery channing - school
+42.3090422 -71.1350459 southfield - school
+42.3076636 -71.0660828 harbor school - school
+42.3401385 -71.1547639 alexander hamilton - school
+42.3818619 -71.1307368 st peter elem - school
+42.4102797 -71.145419 lesley ellis school - school
+42.3692246 -71.179372 edco collaborative - edco@watertown hs - school
+42.3522327 -71.120649 another course to college - school
+42.3086518 -71.0752657 new boston pilot middle school - school
+42.2919955 -71.0642813 st mark elementary - school
+42.3975743 -71.0953318 arthur d healey school - school
+42.3524328 -71.1529868 st columbkille elem - school
+42.3918213 -71.0988167 winter hill community - school
+42.2631926 -71.1557781 beethoven - school
+42.3830771 -71.1240262 graham and parks school - 
+42.2762436 -71.0909872 mildred avenue middle school - school
+42.2826486 -71.0877144 berea sda acad - school
+42.2720176 -71.1625165 joyce kilmer - school
+42.3276141 -71.1051603 roxbury preparatory charter school - school
+42.2615109 -71.0750203 glover - school
+42.3968733 -71.0277921 phoenix charter academy - school
+42.3161566 -71.0845932 boston latin academy - school
+42.2578196 -71.1219832 wm b rogers middle - school
+42.4035995 -70.9923625 garfield elementary school - school
+42.4176118 -71.1879092 cyrus e dallin - school
+42.3411015 -71.0688472 cathedral high - school
+42.3956766 -71.0303658 clark avenue school - school
+42.2627819 -71.1178797 new mission high school - school
+42.3009267 -71.0612323 grover cleveland - school
+42.3777467 -70.9857347 arthur t. cummings elementary school - school
+42.3715284 -71.0400603 e boston central catholic - school
+42.3209071 -71.0867149 lewis middle school - school
+42.412507 -71.0389636 webster school - school
+42.3080897 -71.1373791 dexter school - school
+42.3486564 -71.1107354 ne hebrew acad elem and sec - school
+42.3345644 -71.1205763 pierce - school
+42.3511302 -71.1614958 mary lyon - school
+42.3074905 -71.0843943 mother caroline academy - school
+42.3519864 -71.121019 match charter public high school - school
+42.2880955 -71.0769079 academy of public service - school
+42.2819097 -71.0512447 st brendan elementary - school
+42.2749245 -71.0261833 quincy catholic academy - school
+42.332963 -71.0446492 excel high school - school
+42.3759525 -70.9888105 winthrop middle school - school
+42.2707581 -71.0922214 st angela elementary - school
+42.2594769 -71.0595212 fontbonne academy - school
+42.4021683 -71.1136094 st clement elementary - school
+42.3341082 -71.1420481 john d runkle - school
+42.3108563 -71.1006944 neighborhood school - school
+42.2608916 -71.149575 william h ohrenberger - school
+42.3884593 -71.0044012 curtis guild - school
+42.3320917 -71.0302039 oliver hazard perry - school
+42.274432 -71.0671737 st gregory elementary - school
+42.3939387 -71.0366938 joseph a. browne school - school
+42.3123057 -71.05393 blessed mother teresa school - school
+42.3716236 -71.1356303 buckingham browne &#38; nichols school: upper school campus - school
+42.3921276 -71.1316899 benjamin banneker charter public school - school
+42.3899413 -71.0353919 shurtleff early childhood - school
+42.3309702 -71.1100492 manville - school
+42.4019718 -70.9924952 garfield middle school - school
+42.2822803 -71.1748744 west roxbury academy - school
+42.3583473 -71.0720449 advent - school
+42.3181026 -71.0757306 john winthrop - school
+42.4153945 -71.1507566 arlington catholic hs - school
+42.3947954 -71.1903595 cns/pathways academy - school
+42.309275 -71.1304944 british school of boston - school
+42.2666944 -70.9577092 atherton hough - school
+42.3152461 -71.0789944 haynes early education center - school
+42.3752439 -71.0340641 patrick o&#39;hearn - school
+42.3330969 -71.1288764 brookline high - school
+42.3521907 -71.1374312 horace mann school for the deaf - school
+42.3563955 -71.0717155 park street school - school
+42.3499083 -71.126739 bay cove academy - school
+42.3756959 -71.0502738 seaport campus - school
+42.3409688 -71.0685895 cathedral elementary - school
+42.3434087 -71.1148759 boston trinity academy - school
+42.369517 -71.1057346 castle school inc - school
+42.3151419 -71.0673127 st kevin elementary - school
+42.3692287 -71.1793774 edco collaborative - edco interim education and assessment program - school
+42.4029128 -71.107317 curtis-tufts - school
+42.260537 -71.184749 noble and greenough school - school
+42.2940496 -71.0490228 richard j murphy - school
+42.3129652 -71.1034209 our lady of lourdes - school
+42.3255318 -71.0909575 nathan hale - school
+42.2814471 -71.0694463 woodrow wilson middle - school
+42.3307645 -71.0994197 new mission high school - school
+42.4023904 -71.1324728 international school of boston - school
+42.2779569 -71.0775111 charles h taylor - school
+42.2401336 -71.1369784 st anne elementary - school
+42.3638786 -71.0528614 st john elementary - school
+42.3667929 -71.0959267 maynard-fletcher academy - school
+42.347202 -71.0930283 fenway high school - school
+42.2782955 -71.1579436 st theresa elementary - school
+42.3413579 -71.1366926 michael driscoll - school
+42.3521907 -71.1374312 baldwin elc - school
+42.2867815 -71.0726319 emily a fifield - school
+42.3878839 -71.1304695 cambridge friends - school
+42.3502899 -71.0822185 the kingsley school - school
+42.3245218 -71.086841 city on a hill charter public school - school
+42.3291018 -71.1648937 chestnut hill school - school
+42.3203532 -71.0595351 william e russell - school
+42.3874477 -71.0876825 full circle high school - school
+42.406717 -71.0097629 immaculate conception elementary - school
+42.3076382 -71.0660556 st peter elementary - school
+42.36777 -71.1007189 prospect hill academy charter school - school
+42.2933356 -71.0534714 neighborhood house charter school - school
+42.3343501 -71.0408733 gate of heaven elementary - school
+42.4121241 -71.0083879 revere high - school
+42.3331511 -71.1291256 edco collaborative - edco manville program - school
+42.3951291 -71.1297328 former north cambridge catholic high school - 
+42.3473574 -71.0931575 boston arts academy - school
+42.4063115 -71.1262748 west somerville neighborhood - school
+42.3139093 -71.097888 rafael hernandez - school
+42.3940499 -71.0370356 eugene wright school - school
+42.332964 -71.0983567 maurice j tobin - school
+42.3089 -71.1034 boston international high school - school
+42.3779696 -71.0643904 warren-prescott - school
+42.3230248 -71.0580501 clap innovation - school
+42.2632308 -71.0232254 wollaston school - school
+42.3523225 -71.0781022 commonwealth - school
+42.3185622 -71.1133639 curley k-8 school - school
+42.3915025 -71.0055884 manassah e bradley - school
+42.3711006 -71.1041057 longfellow building - school
+42.2539208 -71.1545289 dedham middle school - school
+42.2848418 -71.0802478 st matthew elementary - school
+42.2534333 -71.0801785 milton town hall - townhall
+42.2464364 -71.1733153 dedham town hall - townhall
+42.4079154 -71.0131692 revere city hall - townhall
+42.3603555 -71.058052 boston city hall - townhall
+42.3339923 -71.1206269 brookline town hall - townhall
+42.4182414 -71.1058656 medford city hall - townhall
+42.250999 -71.0037174 quincy city hall - townhall
+42.3691064 -71.0759259  - fountain
+42.362918 -71.0864522  - food_court
+42.3621736 -71.0850603 au bon pain - cafe
+42.3626795 -71.0863982 mit coop - 
+42.3622303 -71.0859444 mit press bookstore - 
+42.362228 -71.0855445 cosi&#39;s - restaurant
+42.4044802 -71.0845857  - parking
+42.3475371 -71.0996443 yawkey - 
+42.3514335 -71.055348 south station (track 4) - 
+42.351487 -71.0551414 south station (track 6) - 
+42.3515465 -71.0549966 south station (track 7) - 
+42.3515878 -71.0547844 south station (track 9) - 
+42.3511302 -71.0548491 south station (track 11) - 
+42.3676892 -71.0772986  - parking
+42.3596925 -71.0917204  - atm
+42.3668687 -71.1065322 ymca - public_building
+42.328262 -71.0638091 home depot - 
+42.3263393 -71.0652682 stop &#38; shop - 
+42.319021 -71.0686223 uphams corner - 
+42.2706944 -71.0125641 nease library - library
+42.2718058 -71.0119804 wollaston church of the nazarene - place_of_worship
+42.2721869 -71.0107016 lahue physical education center - 
+42.2720599 -71.0097832 bradley field - 
+42.2725044 -71.0100922 bradley field - 
+42.2707452 -71.0086759 waterston lot - parking
+42.2723965 -71.011371 sachem lot - parking
+42.270326 -71.0117144 young lot - parking
+42.2706499 -71.0099892 ra lot - parking
+42.2710373 -71.0098776 edith f. cove fine arts center - theatre
+42.27166 -71.0146718 josiah quincy house - 
+42.2612972 -71.0138655 eastern nazarene college - college
+42.2613036 -71.0133677 rear lot - parking
+42.2605477 -71.0136251 far lot - parking
+42.2615767 -71.013814 campus kinder haus - school
+42.2592169 -70.9983554 mount wollaston cemetery - 
+42.3544455 -70.9788771 suffolk - 
+42.3635462 -71.0994275 toscanini&#39;s - cafe
+42.2780511 -71.0571492 cedar grove cemetary - 
+42.3827824 -71.1038391 unlimited auto body - 
+42.3847133 -71.1118638 walsh and walsh law offices - 
+42.3848981 -71.1122374 duvine adventures - 
+42.3839252 -71.1091617 foreign body works - 
+42.3657216 -71.0289882 la sanghrita - restaurant
+42.404113 -71.1404124 za - restaurant
+42.3610207 -71.0677506 td bank - bank
+42.3487177 -71.0861244 sonsie - cafe
+42.3623238 -71.1408204 big daddy&#39;s - fast_food
+42.3817305 -71.1008886 caesar&#39;s pizza - fast_food
+42.3380793 -71.0897138 latino/a student culture center - 
+42.3876166 -71.1906122 waverley - 
+42.390655 -71.0907264 sunoco - fuel
+42.3915303 -71.0909084 winter hill market - 
+42.3915914 -71.0910343 the lost sock - 
+42.3940091 -71.0872016  - restaurant
+42.3939793 -71.0871349 antiques - 
+42.3983288 -71.0904505 boys &#38; girls club canoe rental - 
+42.3806479 -71.0977442 jerry&#39;s liquors - 
+42.3807501 -71.098099 union square family health - doctors
+42.3834837 -71.1066122 dunkin&#39; donuts - cafe
+42.3862995 -71.1313015 masse - 
+42.3528168 -71.0747175 john glover - 
+42.3522395 -71.076889 patrick andrew collins - 
+42.3519922 -71.077816 the vendome memorial - 
+42.3516496 -71.079052 william lloyd garrison - 
+42.3511739 -71.0808286 samuel eliot morison - 
+42.3504888 -71.0833607 the boston women&#39;s memorial - 
+42.3499941 -71.0851974 domingo sarmiento - 
+42.3490334 -71.0913743 leif ericson - 
+42.3534257 -71.0724687 alexander hamilton - 
+42.365116 -71.104309 magazine st @ green st - 
+42.3793849 -71.100909  - post_box
+42.3943331 -71.0840991 christian assembly - place_of_worship
+42.3861985 -71.132437  - bicycle_parking
+42.388728 -71.1334584  - fountain
+42.3890132 -71.135441  - bench
+42.364933 -71.104408 green st @ magazine st - 
+42.3651082 -71.1039778 cambridge savings bank - bank
+42.3510496 -71.0696803 park plaza hotel - 
+42.4057846 -71.1426331 capitol theater - cinema
+42.414698 -71.1526967 kickstand cafe - cafe
+42.3808233 -71.0982742 p.a.&#39;s lounge - pub
+42.3810746 -71.0987982 bombay market - 
+42.3817127 -71.1007728 korean japanese christian church - place_of_worship
+42.3822708 -71.1025169 land &#38; sea gourmet restaurant - restaurant
+42.38269 -71.104057 somerville ave @ loring st - 
+42.3829962 -71.104939 hair design - 
+42.3834531 -71.1064446 the ups store - post_office
+42.383389 -71.107063 somerville ave @ central st - 
+42.383778 -71.109215 594 somerville ave - 
+42.3840274 -71.1095471 la ronga bakery &#38; delicatessen - restaurant
+42.384176 -71.1102238 brazil auto repair - 
+42.3842934 -71.1106833 mass auto sales and repair - 
+42.384605 -71.112015 somerville ave @ sacramento st - 
+42.3849913 -71.1123887 pet spa - 
+42.384986 -71.1123209  - post_box
+42.3851261 -71.1126284 petrola - fuel
+42.3448344 -71.0765129 starbucks - 
+42.343833 -71.071863 harold b. olliver square - 
+42.352543 -71.140266 harold s. macfarland jr. square - 
+42.3434 -71.068431 samuel naser square - 
+42.2525297 -71.1182489 traffic light - 
+42.346779 -71.0642906 south station / i-93 - 
+42.347702 -71.0798263 prudential center / copley square - 
+42.3073845 -71.1200069 arborway gate - 
+42.2525898 -71.1183178 starbucks - 
